@@ -23,6 +23,44 @@ This project was built to demonstrate an end-to-end marketing analytics workflow
 
 ## Dashboard Pages
 
+Page no 1
+
+<img width="610" height="335" alt="Screenshot 2026-07-27 222505" src="https://github.com/user-attachments/assets/3e1c522c-626b-4c43-9894-d7f589f29ec2" />
+
+Page no 2
+
+<img width="610" height="335" alt="Screenshot 2026-07-27 222548" src="https://github.com/user-attachments/assets/9ae1d15b-7d5f-4d30-a6c9-87e8ef376edf" />
+
+Page no 3
+
+<img width="613" height="340" alt="Screenshot 2026-07-27 222705" src="https://github.com/user-attachments/assets/f6a50386-671e-4d6f-af54-15ca63b66c44" />
+
+Page no 4
+
+<img width="611" height="338" alt="Screenshot 2026-07-27 222727" src="https://github.com/user-attachments/assets/4180bcdf-0342-41f5-893b-fdc589a44053" />
+
+Page no 5
+
+<img width="611" height="335" alt="Screenshot 2026-07-27 222800" src="https://github.com/user-attachments/assets/26740c32-99fc-49aa-9fde-b72aecc655c1" />
+
+Page no 6
+
+<img width="613" height="337" alt="Screenshot 2026-07-27 222821" src="https://github.com/user-attachments/assets/7dec7f45-b330-4407-9846-4fa7c36ebcd6" />
+
+Page no 7
+
+<img width="611" height="339" alt="Screenshot 2026-07-27 222845" src="https://github.com/user-attachments/assets/d12ee59f-18b1-4531-83cc-7014a73a8398" />
+
+Page no 8
+
+<img width="611" height="339" alt="Screenshot 2026-07-27 222927" src="https://github.com/user-attachments/assets/fba70710-9a8a-4ec9-99a9-93f6d11fa0f8" />
+
+Page no 9
+
+<img width="610" height="337" alt="Screenshot 2026-07-27 222950" src="https://github.com/user-attachments/assets/adc4848d-210e-41d0-bcc6-ef0f6bf4268c" />
+
+
+
 
 
 ## Key Insights
